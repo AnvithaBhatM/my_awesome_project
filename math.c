@@ -7,6 +7,7 @@ void sub(){
 }
 void main()
 {
+//main
 	add();
 	sub();
 }
