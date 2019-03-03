@@ -1,3 +1,4 @@
+//hi
 #include<stdio.h>
 void add(float f1,float f2){
 	printf("this is addition");
