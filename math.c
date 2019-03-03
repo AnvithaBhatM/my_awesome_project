@@ -9,7 +9,6 @@ void mul(){
 void main()
 {
 //main
-	add(ff1,ff2);
-	
+	add(fb1,fa2);	
 	mul();
 }
