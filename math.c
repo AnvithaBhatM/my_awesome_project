@@ -1,5 +1,5 @@
 #include<stdio.h>
-void add(){
+void add(float f1,float f2){
 	printf("this is addition");
 }
 
@@ -9,7 +9,7 @@ void mul(){
 void main()
 {
 //main
-	add();
+	add(f1,f2);
 	
 	mul();
 }
